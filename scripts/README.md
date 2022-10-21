@@ -14,6 +14,7 @@ Scripts are the backend services that will be run periodically to retrieve pendi
 2. Git clone the repository to local machine.
 3. Make sure [yarn](https://yarnpkg.com/getting-started/migration#why-should-you-migrate) is installed.
 4. Enter `yarn install` in terminal to install all required dependencies.
+5. Make sure [api-server](../api-server/) is running at the background.
 
 > Execute create dummy invoices script command in terminal : `yarn dev generate-dummy-invoice.ts`
 
