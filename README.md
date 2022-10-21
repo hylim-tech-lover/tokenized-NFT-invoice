@@ -2,7 +2,7 @@
 
 ## Description
 
-As part of supply chain payments, invoice factoring uses decentralised markets on blockchain protocol to rehypothecate capital while helping suppliers with working capital
+Invoice factoring uses decentralised markets on blockchain protocol to rehypothecate capital while helping suppliers with working capital
 
 ## Implementation components
 
