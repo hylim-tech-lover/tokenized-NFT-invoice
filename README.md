@@ -7,6 +7,7 @@ Invoice factoring uses decentralised markets on blockchain protocol to rehypothe
 ## Implementation components
 
 - Smart contracts
+- API server
 - Automated Scripts
 
 ## Technical flow
